@@ -1,0 +1,20 @@
+Dataset: Bike Buyers Data
+Source: Kaggle (https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
+
+This dataset includes customer demographic and lifestyle data. It is used to analyze trends that influence the decision to purchase a bicycle.
+
+Columns:
+
+- ID: Unique identifier for each customer
+- Marital Status: Married or Single
+- Gender: Male or Female
+- Income: Annual income of the customer
+- Children: Number of children in the household
+- Education: Highest education level attained
+- Occupation: Job category of the individual
+- Home Owner: Indicates home ownership status (Yes/No)
+- Cars: Number of cars owned
+- Commute Distance: Distance traveled for daily commute
+- Region: Geographic region of residence
+- Age: Age of the customer
+- Purchased Bike: Whether the customer purchased a bike (Yes/No)

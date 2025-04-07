@@ -1,0 +1,26 @@
+Dashboard Insights – Bike Buyers Analysis
+
+This Excel dashboard visualizes data from the Bike Buyers dataset to explore customer trends and behavior.
+
+Key Findings
+
+- Age-Based Trend:  
+  Middle-aged customers are the top buyers of bikes. Purchases significantly drop for both adolescents and older age groups.
+
+- Income vs Purchase:  
+  Customers who did not purchase a bike had a higher average income than those who did. This may indicate a preference for other transportation options among high earners.
+
+- Gender Comparison:  
+  Both genders have comparable income levels. However, the bike purchase rate remains slightly higher in males across income brackets.
+
+- Commute Distance Influence:  
+  The majority of bike buyers commute 0–1 miles. Bike purchases steadily decline with longer commute distances.
+
+- Segmented Insights via Slicers:  
+  Users can slice data by Marital Status, Education, Region, and Gender to explore bike purchases in different customer segments.
+
+Dashboard Built Using:
+
+- Excel Pivot Tables
+- Slicers for interactivity
+- Column charts and line graphs
